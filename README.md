@@ -21,30 +21,23 @@ NLP · Large Language Models · RAG · Multi-turn Dialogue Systems
 - 🎆 **2026.07.01 – 07.10** 赴美国圣地亚哥参加 **ACL 2026** 会议！  
   🎆 Attending **ACL 2026** in San Diego, USA!
 
-- 🚀 **2026.05.01** Google Scholar 引用量突破 **300**！  
-  🚀 Google Scholar citations surpassed **300**!
+- 🚀 **2026.05.01** Google Scholar citations surpassed **300**!
 
-- 🎉 **2026.04.07** 两篇论文中稿 **ACL 2026**！其中一篇为 **Oral**！  
-  🎉 Two papers accepted at **ACL 2026**! One selected as **Oral**!
+- 🎉 **2026.04.07** Two papers accepted at **ACL 2026**! One selected as **Oral**!
   - *Too Good to be Bad: On the Failure of LLMs to Role-Play Villains*
   - *Attention basin: Why contextual position matters in large language models* **(Oral)**
 
-- 📈 **2026.01.05** Google Scholar 引用量突破 **200**！  
-  📈 Google Scholar citations surpassed **200**!
+- 📈 **2026.01.05** Google Scholar citations surpassed **200**!
 
-- ✨ **2025.10.02** 综述论文中稿 **ACM Computing Surveys**（JCR Q1, IF: 30.4），**单独第一作者**！  
-  ✨ Survey paper accepted at **ACM Computing Surveys** (JCR Q1, IF: 30.4), **sole first author**!
+- ✨ **2025.10.02** Survey paper accepted at **ACM Computing Surveys** (JCR Q1, IF: 30.4), **sole first author**!
   - *A Survey on Recent Advances in LLM-Based Multi-turn Dialogue Systems*
 
-- 🎇 **2025.05** 论文中稿 **ICASSP 2025**（CCF B）！  
-  🎇 Paper accepted at **ICASSP 2025** (CCF B)!
+- 🎇 **2025.05** Paper accepted at **ICASSP 2025** (CCF B)!
   - *Intent-driven In-context Learning for Few-shot Dialogue State Tracking*
 
-- 💯 **2025.07.06** Google Scholar 引用量突破 **100**！  
-  💯 Google Scholar citations surpassed **100**!
+- 💯 **2025.07.06** Google Scholar citations surpassed **100**!
 
 - 💼 **2025.04.22** 加入 **腾讯混元数字人团队**，担任 **犀牛鸟精英实习生**  
-  💼 Joined **Tencent Hunyuan Digital Human Team**
 
 ---
 
@@ -100,10 +93,8 @@ I am a PhD student in Electronic Information at **Sun Yat-sen University** (2024
 ## 📜 专利 / Patents
 
 - 一种**应急问答大模型**构建方法、系统、设备及介质 —— **已授权**（学生第一作者）  
-  Emergency QA Large Model Construction Method, System, Device and Medium — **Granted** (Student First Inventor)
 
 - 一种**零样本图像文本转换**方法及装置 —— **已授权**  
-  Zero-shot Image-Text Conversion Method and Device — **Granted**
 
 ---
 
