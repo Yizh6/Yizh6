@@ -126,7 +126,7 @@ I am a PhD student in Electronic Information at **Sun Yat-sen University** (2024
 ## 🏆 荣誉奖项 / Honors & Awards
 
 - 🥇 **2025** 腾讯犀牛鸟精英人才 / Tencent Rhino-Bird Elite Talent
-- 🥇 **2024** 日内瓦国际发明展金奖（负责算法开发与奖项评选）/ Geneva International Exhibition of Inventions Gold Medal
+- 🥇 **2024** 日内瓦国际发明展金奖 / Geneva International Exhibition of Inventions Gold Medal
 - 🎓 **2024** 中山大学优秀毕业论文 / SYSU Outstanding Bachelor Thesis
 - 🏅 **2020 – 2024** 中山大学优秀学生奖学金 / SYSU Outstanding Student Scholarship
 - 🏅 **2022 – 2023** 团体程序设计天梯赛学校团体省二等奖、省三等奖 / GPLT Provincial Awards
