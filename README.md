@@ -42,9 +42,9 @@ NLP · Large Language Models · RAG · Multi-turn Dialogue Systems
 
 ## 🎓 关于我 / About Me
 
-我是中山大学电子信息专业博士研究生（2024.09 – 至今），师从 **沈颖教授**。本科毕业于中山大学智能科学与技术专业（2020.09 – 2024.03）。我的研究兴趣聚焦于大语言模型的内在机理、检索增强生成、角色扮演与多轮对话系统。
+我是中山大学电子信息专业博士研究生（2024.09 – 至今），师从 **沈颖教授（中山大学计算机学院）** 以及 **李亦学教授（广州实验室）**。本科毕业于中山大学智能科学与技术专业（2020.09 – 2024.03）。我的研究兴趣聚焦于大语言模型的内在机理、检索增强生成、角色扮演与多轮对话系统。
 
-I am a PhD student in Electronic Information at **Sun Yat-sen University** (2024.09 – Present), advised by **Prof. Ying Shen**. I received my B.S. in Intelligence Science and Technology from SYSU (2020.09 – 2024.03). My research interests focus on the intrinsic mechanisms of LLMs, retrieval-augmented generation, role-playing, and multi-turn dialogue systems.
+I am a PhD student in Electronic Information at **Sun Yat-sen University** (2024.09 – Present), advised by **Prof. Ying Shen (SYSU)** and **Prof. Yixue Li (GZLAB)**. I received my B.S. in Intelligence Science and Technology from SYSU (2020.09 – 2024.03). My research interests focus on the intrinsic mechanisms of LLMs, retrieval-augmented generation, role-playing, and multi-turn dialogue systems.
 
 ---
 
