@@ -18,8 +18,7 @@ NLP · Large Language Models · RAG · Multi-turn Dialogue Systems
 
 &gt; 按时间倒序排列 / Listed in reverse chronological order
 
-- 🎆 **2026.07.01 – 07.10** 赴美国圣地亚哥参加 **ACL 2026** 会议！  
-  🎆 Attending **ACL 2026** in San Diego, USA!
+- 🎆 **2026.07.01 – 07.10** Attending **ACL 2026** in San Diego, USA!
 
 - 🚀 **2026.05.01** Google Scholar citations surpassed **300**!
 
