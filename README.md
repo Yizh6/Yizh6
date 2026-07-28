@@ -151,9 +151,3 @@ If you share similar research interests in LLMs, role-playing, RAG, or multi-tur
 📧 **Email**: [yizh6@mail2.sysu.edu.cn](mailto:yizh6@mail2.sysu.edu.cn)
 
 ---
-
-<div align="center">
-
-*Last updated: July 2026*
-
-</div>
