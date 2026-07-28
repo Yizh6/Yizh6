@@ -8,7 +8,7 @@
 NLP · Large Language Models · RAG · Multi-turn Dialogue Systems
 
 📧 [yizh6@mail2.sysu.edu.cn](mailto:yizh6@mail2.sysu.edu.cn)  
-📊 [Google Scholar](https://scholar.google.com/citations?user=dKgIWGsAAAAJ&hl=zh-CN) · 💻 [GitHub](https://github.com/Tencent/digitalhuman)
+📊 [Google Scholar](https://scholar.google.com/citations?user=dKgIWGsAAAAJ&hl=zh-CN) · 💻 [GitHub](https://github.com/Yizh6/Yizh6/tree/main)
 
 </div>
 
