@@ -26,15 +26,15 @@ NLP · Large Language Models · RAG · Multi-turn Dialogue Systems
   - *Too Good to be Bad: On the Failure of LLMs to Role-Play Villains*
   - *Attention basin: Why contextual position matters in large language models* **(Oral)**
 
-- 📈 **2026.01.05** Google Scholar citations surpassed **200**!
+- 🚀 **2026.01.05** Google Scholar citations surpassed **200**!
 
-- ✨ **2025.10.02** Survey paper accepted at **ACM Computing Surveys** (JCR Q1, IF: 30.4), **sole first author**!
+- 🎉 **2025.10.02** Survey paper accepted at **ACM Computing Surveys** (JCR Q1, IF: 30.4), **sole first author**!
   - *A Survey on Recent Advances in LLM-Based Multi-turn Dialogue Systems*
 
-- 🎇 **2025.05** Paper accepted at **ICASSP 2025** (CCF B)!
+- 🎉 **2025.05** Paper accepted at **ICASSP 2025** (CCF B)!
   - *Intent-driven In-context Learning for Few-shot Dialogue State Tracking*
 
-- 💯 **2025.07.06** Google Scholar citations surpassed **100**!
+- 🚀 **2025.07.06** Google Scholar citations surpassed **100**!
 
 - 💼 **2025.04.22** 加入 **腾讯混元数字人团队**，担任 **犀牛鸟精英实习生**  
 
@@ -51,12 +51,12 @@ I am a PhD student in Electronic Information at **Sun Yat-sen University** (2024
 ## 📚 发表论文 / Publications
 
 ### 2026
-- 🎆 **Too Good to be Bad: On the Failure of LLMs to Role-Play Villains**  
+- 🎉 **Too Good to be Bad: On the Failure of LLMs to Role-Play Villains**  
   **ACL 2026** | [💻 Code](https://github.com/Tencent/digitalhuman) | [📄 Paper](https://scholar.google.com/citations?user=dKgIWGsAAAAJ&hl=zh-CN)  
   **Zihao Yi**, Qingxuan Jiang, Ruotian Ma, Xingyu Chen, Qu Yang, Mengru Wang, Fanghua Ye, Ying Shen, Zhaopeng Tu, Xiaolong Li  
   🏆 *HuggingFace Daily Best Paper*
 
-- 🎆 **Attention basin: Why contextual position matters in large language models**  
+- 🎉 **Attention basin: Why contextual position matters in large language models**  
   **ACL 2026 (Oral)** | [📄 Paper](https://scholar.google.com/citations?user=dKgIWGsAAAAJ&hl=zh-CN)  
   **Zihao Yi**, Zhenqing Ling, Delong Zeng, Haohao Luo, Zhe Xu, Wei Liu, Jian Luan, Wanxia Cao, Ying Shen
 
@@ -65,7 +65,7 @@ I am a PhD student in Electronic Information at **Sun Yat-sen University** (2024
   C Mu, X He, Q Yang, W Chen, J Yao, H Liu, **Z Yi**, et al.
 
 ### 2025
-- 🎇 **A Survey on Recent Advances in LLM-Based Multi-turn Dialogue Systems**  
+- 🎉 **A Survey on Recent Advances in LLM-Based Multi-turn Dialogue Systems**  
   **ACM Computing Surveys** (JCR Q1, IF: 30.4, 278+ citations)  
   **Zihao Yi** (sole first author), Jiarui Ouyang, Zhe Xu, Yuwen Liu, Tianhao Liao, Haohao Luo, Ying Shen
 
@@ -74,7 +74,7 @@ I am a PhD student in Electronic Information at **Sun Yat-sen University** (2024
   Delong Zeng, Ying Shen, Man Lin, **Zihao Yi**, Jiarui Ouyang
 
 ### 2024
-- ✨ **Intent-driven In-context Learning for Few-shot Dialogue State Tracking**  
+- 🎉 **Intent-driven In-context Learning for Few-shot Dialogue State Tracking**  
   **ICASSP 2024** (CCF B)  
   **Zihao Yi**, Zhe Xu, Ying Shen
 
@@ -128,7 +128,6 @@ I am a PhD student in Electronic Information at **Sun Yat-sen University** (2024
 - 🥇 **2024** 日内瓦国际发明展金奖 / Geneva International Exhibition of Inventions Gold Medal
 - 🎓 **2024** 中山大学优秀毕业论文 / SYSU Outstanding Bachelor Thesis
 - 🏅 **2020 – 2024** 中山大学优秀学生奖学金 / SYSU Outstanding Student Scholarship
-- 🏅 **2022 – 2023** 团体程序设计天梯赛学校团体省二等奖、省三等奖 / GPLT Provincial Awards
 
 ---
 
