@@ -22,6 +22,8 @@ NLP · Large Language Models · RAG · Multi-turn Dialogue Systems
 
 - 🏆 **2026.10.15** 获评**国家奖学金** / Awarded the **National Scholarship**!
 
+- 🏅 **2026.09.19** *[A Survey on Recent Advances in LLM-Based Multi-turn Dialogue Systems](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=dKgIWGsAAAAJ&citation_for_view=dKgIWGsAAAAJ:eQOLeE2rZwMC)* 入选**高被引论文** / Recognized as a **Highly Cited Paper**!
+
 - 🎉 **2026.08.21** Three papers accepted at **EMNLP 2026** (**2 Main Conference + 1 Findings**)!
   - *[GRAM: Empowering Agent with Actively Managed Graph-Structured Memory via Reinforcement Learning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=dKgIWGsAAAAJ&citation_for_view=dKgIWGsAAAAJ:Se3iqnhoufwC)* **(Findings)**
   - *[WebSync: A Self-Evolving Web Agent Framework for Co-Evolving Strategic Advice and Executable Skills](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=dKgIWGsAAAAJ&citation_for_view=dKgIWGsAAAAJ:roLk4NBRz8UC)*
@@ -87,8 +89,9 @@ I am a PhD student in Electronic Information at **Sun Yat-sen University** (2024
 
 ### 2025
 - 🎉 **A Survey on Recent Advances in LLM-Based Multi-turn Dialogue Systems**  
-  **ACM Computing Surveys** (JCR Q1, IF: 30.4, 278+ citations)  
-  **Zihao Yi** (sole first author), Jiarui Ouyang, Zhe Xu, Yuwen Liu, Tianhao Liao, Haohao Luo, Ying Shen
+  **ACM Computing Surveys** (JCR Q1, IF: 30.4, 278+ citations) | [📄 Paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=dKgIWGsAAAAJ&citation_for_view=dKgIWGsAAAAJ:eQOLeE2rZwMC)  
+  **Zihao Yi** (sole first author), Jiarui Ouyang, Zhe Xu, Yuwen Liu, Tianhao Liao, Haohao Luo, Ying Shen  
+  🏅 *Highly Cited Paper (2026.09.19)*
 
 - **Zero-shot Image Captioning with Multi-type Entity Representations**  
   **AAAI 2025** (CCF A)  
