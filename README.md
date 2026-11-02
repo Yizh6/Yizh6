@@ -16,9 +16,18 @@ NLP · Large Language Models · RAG · Multi-turn Dialogue Systems
 
 ## 📰 最新动态 / Latest News
 
-&gt; 按时间倒序排列 / Listed in reverse chronological order
+> 按时间倒序排列 / Listed in reverse chronological order
 
-- 🎆 **2026.07.01 – 07.10** Attending **ACL 2026** in San Diego, USA!
+- 🌍 **2026.10.24 – 10.30** Attended **EMNLP 2026** in Budapest, Hungary! 🇭🇺
+
+- 🏆 **2026.10.15** 获评**国家奖学金** / Awarded the **National Scholarship**!
+
+- 🎉 **2026.08.21** Three papers accepted at **EMNLP 2026** (**2 Main Conference + 1 Findings**)!
+  - *[GRAM: Empowering Agent with Actively Managed Graph-Structured Memory via Reinforcement Learning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=dKgIWGsAAAAJ&citation_for_view=dKgIWGsAAAAJ:Se3iqnhoufwC)* **(Findings)**
+  - *[WebSync: A Self-Evolving Web Agent Framework for Co-Evolving Strategic Advice and Executable Skills](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=dKgIWGsAAAAJ&citation_for_view=dKgIWGsAAAAJ:roLk4NBRz8UC)*
+  - *[From Poetry Parties to Poetry Critics: Benchmarking Classical Chinese Poetry Generation and Evaluation](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=dKgIWGsAAAAJ&citation_for_view=dKgIWGsAAAAJ:LkGwnXOMwfcC)*
+
+- 🎆 **2026.07.01 – 07.10** Attended **ACL 2026** in San Diego, USA!
 
 - 🚀 **2026.05.01** Google Scholar citations surpassed **300**!
 
@@ -31,10 +40,10 @@ NLP · Large Language Models · RAG · Multi-turn Dialogue Systems
 - 🎉 **2025.10.02** Survey paper accepted at **ACM Computing Surveys** (JCR Q1, IF: 30.4), **sole first author**!
   - *A Survey on Recent Advances in LLM-Based Multi-turn Dialogue Systems*
 
+- 🚀 **2025.07.06** Google Scholar citations surpassed **100**!
+
 - 🎉 **2025.05** Paper accepted at **ICASSP 2025** (CCF B)!
   - *Intent-driven In-context Learning for Few-shot Dialogue State Tracking*
-
-- 🚀 **2025.07.06** Google Scholar citations surpassed **100**!
 
 - 💼 **2025.04.22** 加入 **腾讯混元数字人团队**，担任 **犀牛鸟精英实习生**  
 
@@ -51,6 +60,18 @@ I am a PhD student in Electronic Information at **Sun Yat-sen University** (2024
 ## 📚 发表论文 / Publications
 
 ### 2026
+- 🎉 **GRAM: Empowering Agent with Actively Managed Graph-Structured Memory via Reinforcement Learning**  
+  **EMNLP 2026 (Findings)** | [📄 Paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=dKgIWGsAAAAJ&citation_for_view=dKgIWGsAAAAJ:Se3iqnhoufwC) | [📚 ACL Anthology](https://aclanthology.org/2026.findings-emnlp.1183/)  
+  Xiangqi Chen, **Zihao Yi**, Haohao Luo, Ying Shen
+
+- 🎉 **WebSync: A Self-Evolving Web Agent Framework for Co-Evolving Strategic Advice and Executable Skills**  
+  **EMNLP 2026** | [📄 Paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=dKgIWGsAAAAJ&citation_for_view=dKgIWGsAAAAJ:roLk4NBRz8UC) | [📚 ACL Anthology](https://aclanthology.org/2026.emnlp-main.2238/)  
+  Yuanlei Wang, Haohao Luo, **Zihao Yi**, Ying Shen, Liang Lin
+
+- 🎉 **From Poetry Parties to Poetry Critics: Benchmarking Classical Chinese Poetry Generation and Evaluation**  
+  **EMNLP 2026** | [📄 Paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=dKgIWGsAAAAJ&citation_for_view=dKgIWGsAAAAJ:LkGwnXOMwfcC) | [📚 ACL Anthology](https://aclanthology.org/2026.emnlp-main.1534/)  
+  **Zihao Yi**, Zhaopeng Tu, Ruotian Ma, Qingxuan Jiang, Zhe Xu, Qingyu Xiao, Yixue Li, Ying Shen, Liefeng Bo
+
 - 🎉 **Too Good to be Bad: On the Failure of LLMs to Role-Play Villains**  
   **ACL 2026** | [💻 Code](https://github.com/Tencent/digitalhuman) | [📄 Paper](https://scholar.google.com/citations?user=dKgIWGsAAAAJ&hl=zh-CN)  
   **Zihao Yi**, Qingxuan Jiang, Ruotian Ma, Xingyu Chen, Qu Yang, Mengru Wang, Fanghua Ye, Ying Shen, Zhaopeng Tu, Xiaolong Li  
@@ -124,6 +145,8 @@ I am a PhD student in Electronic Information at **Sun Yat-sen University** (2024
 
 ## 🏆 荣誉奖项 / Honors & Awards
 
+- 🏆 **2026.10.15** 国家奖学金 / National Scholarship
+- 🎓 **2026** 博士特等奖学金 / Doctoral Special-Class Scholarship
 - 🥇 **2025** 腾讯犀牛鸟精英人才 / Tencent Rhino-Bird Elite Talent
 - 🥇 **2024** 日内瓦国际发明展金奖 / Geneva International Exhibition of Inventions Gold Medal
 - 🎓 **2024** 中山大学优秀毕业论文 / SYSU Outstanding Bachelor Thesis
